@@ -1,2 +1,2 @@
 # forthetao.github.io
-Jump to homepage according to your language.
+In case of commerical use and jump to homepage according to your language.
